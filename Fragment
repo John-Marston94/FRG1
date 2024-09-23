@@ -609,7 +609,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "zula.ir",
+            "address": "iranserver.com",
             "port": 2086,
             "users": [
               {
@@ -647,7 +647,7 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "1-1",
-          "length": "2-8",
+          "length": "4-8",
           "interval": "1-2"
         }
       },
@@ -786,7 +786,7 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "1-1",
-          "length": "15-18",
+          "length": "10-20",
           "interval": "1-2"
         }
       },
