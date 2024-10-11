@@ -78,7 +78,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "chrome",
+          "fingerprint": "randomized",
           "show": false
         },
         "wsSettings": {
@@ -228,7 +228,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "chrome",
+          "fingerprint": "randomized",
           "show": false
         },
         "wsSettings": {
@@ -378,7 +378,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "chrome",
+          "fingerprint": "randomized",
           "show": false
         },
         "wsSettings": {
@@ -528,7 +528,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "chrome",
+          "fingerprint": "randomized",
           "show": false
         },
         "wsSettings": {
@@ -678,7 +678,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "chrome",
+          "fingerprint": "randomized",
           "show": false
         },
         "wsSettings": {
@@ -828,7 +828,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "chrome",
+          "fingerprint": "randomized",
           "show": false
         },
         "wsSettings": {
@@ -978,7 +978,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "chrome",
+          "fingerprint": "randomized",
           "show": false
         },
         "wsSettings": {
@@ -1128,7 +1128,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "chrome",
+          "fingerprint": "randomized",
           "show": false
         },
         "wsSettings": {
@@ -1278,7 +1278,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "chrome",
+          "fingerprint": "randomized",
           "show": false
         },
         "wsSettings": {
