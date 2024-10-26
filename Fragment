@@ -1498,9 +1498,8 @@
       }
     ]
   }
-},
-{
-  "remarks": "Fragment-Emergency",
+}{
+  "remarks": "Emergency_SetAllowInsecuretrue (IRCF Fragment)",
   "log": {
     "access": "",
     "error": "",
@@ -1523,7 +1522,7 @@
       "settings": {
         "auth": "noauth",
         "udp": true,
-        "allowTransparent": true
+        "allowTransparent": false
       }
     },
     {
@@ -1549,15 +1548,15 @@
   "outbounds": [
     {
       "tag": "proxy",
-      "protocol": "vmess",
+      "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "199.232.1.104",
+            "address": "199.232.12.13",
             "port": 443,
             "users": [
               {
-                "id": "daf98375-4ed0-46d0-ac2a-b48098b3c14b",
+                "id": "c7fd425c-ba4c-486b-9983-73f4be891fcf",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1572,7 +1571,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "allowInsecure": false,
+          "allowInsecure": true,
           "serverName": "exchanger.global.top",
           "alpn": [
             "h2",
@@ -1603,7 +1602,7 @@
         "fragment": {
           "packets": "1-1",
           "length": "10-20",
-          "interval": "2-8"
+          "interval": "5-10"
         }
       },
       "streamSettings": {
