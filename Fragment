@@ -18,7 +18,6 @@
             }
         ]
     },
-	{
   "remarks": "MCI 1",
   "log": {
     "access": "",
@@ -63,9 +62,6 @@
             "tag": "dns-in"
         }
     ],
-    "log": {
-        "loglevel": "warning"
-    },
     "outbounds": [
         {
             "mux": {
@@ -211,14 +207,8 @@
     "stats": {}
 },
 {
-  "remarks": "MCI 2",
-  "log": {
-    "access": "",
-    "error": "",
-    "loglevel": "warning"
-  },
-{
-  "log": {
+	"remarks": "MCI 2",
+	"log": {
     "access": "",
     "error": "",
     "loglevel": "warning"
