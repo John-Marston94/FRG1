@@ -74,7 +74,7 @@
                 "xudpConcurrency": 8,
                 "xudpProxyUDP443": ""
             },
-            "protocol": "vless",
+            "protocol": "vmess",
             "settings": {
                 "vnext": [
                     {
