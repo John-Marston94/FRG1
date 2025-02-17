@@ -54,7 +54,7 @@
         "vnext": [
           {
             "address": "upcloud.com",
-            "port": 443,
+            "port": 2096,
             "users": [
               {
                 "id": "a3961421-f5fc-42e8-9fb3-44ae6350b315",
@@ -231,7 +231,7 @@
         "vnext": [
           {
             "address": "apphaus.sap.com",
-            "port": 443,
+            "port": 2096,
             "users": [
               {
                 "id": "a3961421-f5fc-42e8-9fb3-44ae6350b315",
@@ -408,7 +408,7 @@
         "vnext": [
           {
             "address": "kartenliebe.de",
-            "port": 443,
+            "port": 2096,
             "users": [
               {
                 "id": "a3961421-f5fc-42e8-9fb3-44ae6350b315",
@@ -585,7 +585,7 @@
         "vnext": [
           {
             "address": "getyourguide.com",
-            "port": 443,
+            "port": 2096,
             "users": [
               {
                 "id": "a3961421-f5fc-42e8-9fb3-44ae6350b315",
@@ -762,7 +762,7 @@
         "vnext": [
           {
             "address": "104.21.69.44",
-            "port": 443,
+            "port": 2096,
             "users": [
               {
                 "id": "a3961421-f5fc-42e8-9fb3-44ae6350b315",
@@ -939,7 +939,7 @@
         "vnext": [
           {
             "address": "researchgate.net",
-            "port": 443,
+            "port": 2096,
             "users": [
               {
                 "id": "a3961421-f5fc-42e8-9fb3-44ae6350b315",
@@ -1116,7 +1116,7 @@
         "vnext": [
           {
             "address": "www.speedtest.net",
-            "port": 443,
+            "port": 2096,
             "users": [
               {
                 "id": "a3961421-f5fc-42e8-9fb3-44ae6350b315",
@@ -1293,7 +1293,7 @@
         "vnext": [
           {
             "address": "upcloud.com",
-            "port": 443,
+            "port": 2096,
             "users": [
               {
                 "id": "a3961421-f5fc-42e8-9fb3-44ae6350b315",
@@ -1470,7 +1470,7 @@
         "vnext": [
           {
             "address": "datarade.ai",
-            "port": 443,
+            "port": 2096,
             "users": [
               {
                 "id": "a3961421-f5fc-42e8-9fb3-44ae6350b315",
@@ -1647,7 +1647,7 @@
         "vnext": [
           {
             "address": "consumer-api.prod.ps.welt.de",
-            "port": 443,
+            "port": 2096,
             "users": [
               {
                 "id": "a3961421-f5fc-42e8-9fb3-44ae6350b315",
