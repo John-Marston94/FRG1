@@ -54,10 +54,10 @@
         "vnext": [
           {
             "address": "upcloud.com",
-            "port": 2053,
+            "port": 8443,
             "users": [
               {
-                "id": "095b0dfb-8487-4e69-bfac-4beb814310bf",
+                "id": "a8b8d00a-fb21-4424-ba91-f85994a06470",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -73,7 +73,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "minor-wn-inspection-gratis.trycloudflare.com",
+          "serverName": "spring-candle-thesaurus-prediction.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,9 +82,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "095b0dfb-8487-4e69-bfac-4beb814310bf-vm",
+          "path": "a8b8d00a-fb21-4424-ba91-f85994a06470-vm",
           "headers": {
-            "Host": "minor-wn-inspection-gratis.trycloudflare.com"
+            "Host": "spring-candle-thesaurus-prediction.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -231,10 +231,10 @@
         "vnext": [
           {
             "address": "apphaus.sap.com",
-            "port": 2053,
+            "port": 8443,
             "users": [
               {
-                "id": "095b0dfb-8487-4e69-bfac-4beb814310bf",
+                "id": "a8b8d00a-fb21-4424-ba91-f85994a06470",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -250,7 +250,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "minor-wn-inspection-gratis.trycloudflare.com",
+          "serverName": "spring-candle-thesaurus-prediction.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -259,9 +259,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "095b0dfb-8487-4e69-bfac-4beb814310bf-vm",
+          "path": "a8b8d00a-fb21-4424-ba91-f85994a06470-vm",
           "headers": {
-            "Host": "minor-wn-inspection-gratis.trycloudflare.com"
+            "Host": "spring-candle-thesaurus-prediction.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -408,10 +408,10 @@
         "vnext": [
           {
             "address": "kartenliebe.de",
-            "port": 2053,
+            "port": 8443,
             "users": [
               {
-                "id": "095b0dfb-8487-4e69-bfac-4beb814310bf",
+                "id": "a8b8d00a-fb21-4424-ba91-f85994a06470",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -427,7 +427,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "minor-wn-inspection-gratis.trycloudflare.com",
+          "serverName": "spring-candle-thesaurus-prediction.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -436,9 +436,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "095b0dfb-8487-4e69-bfac-4beb814310bf-vm",
+          "path": "a8b8d00a-fb21-4424-ba91-f85994a06470-vm",
           "headers": {
-            "Host": "minor-wn-inspection-gratis.trycloudflare.com"
+            "Host": "spring-candle-thesaurus-prediction.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -585,10 +585,10 @@
         "vnext": [
           {
             "address": "getyourguide.com",
-            "port": 2053,
+            "port": 8443,
             "users": [
               {
-                "id": "095b0dfb-8487-4e69-bfac-4beb814310bf",
+                "id": "a8b8d00a-fb21-4424-ba91-f85994a06470",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -604,7 +604,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "minor-wn-inspection-gratis.trycloudflare.com",
+          "serverName": "spring-candle-thesaurus-prediction.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -613,9 +613,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "095b0dfb-8487-4e69-bfac-4beb814310bf-vm",
+          "path": "a8b8d00a-fb21-4424-ba91-f85994a06470-vm",
           "headers": {
-            "Host": "minor-wn-inspection-gratis.trycloudflare.com"
+            "Host": "spring-candle-thesaurus-prediction.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -762,10 +762,10 @@
         "vnext": [
           {
             "address": "104.21.69.44",
-            "port": 2053,
+            "port": 8443,
             "users": [
               {
-                "id": "095b0dfb-8487-4e69-bfac-4beb814310bf",
+                "id": "a8b8d00a-fb21-4424-ba91-f85994a06470",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -781,7 +781,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "minor-wn-inspection-gratis.trycloudflare.com",
+          "serverName": "spring-candle-thesaurus-prediction.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -790,9 +790,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "095b0dfb-8487-4e69-bfac-4beb814310bf-vm",
+          "path": "a8b8d00a-fb21-4424-ba91-f85994a06470-vm",
           "headers": {
-            "Host": "minor-wn-inspection-gratis.trycloudflare.com"
+            "Host": "spring-candle-thesaurus-prediction.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -939,10 +939,10 @@
         "vnext": [
           {
             "address": "researchgate.net",
-            "port": 2053,
+            "port": 8443,
             "users": [
               {
-                "id": "095b0dfb-8487-4e69-bfac-4beb814310bf",
+                "id": "a8b8d00a-fb21-4424-ba91-f85994a06470",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -958,7 +958,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "minor-wn-inspection-gratis.trycloudflare.com",
+          "serverName": "spring-candle-thesaurus-prediction.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -967,9 +967,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "095b0dfb-8487-4e69-bfac-4beb814310bf-vm",
+          "path": "a8b8d00a-fb21-4424-ba91-f85994a06470-vm",
           "headers": {
-            "Host": "minor-wn-inspection-gratis.trycloudflare.com"
+            "Host": "spring-candle-thesaurus-prediction.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1116,10 +1116,10 @@
         "vnext": [
           {
             "address": "www.speedtest.net",
-            "port": 2053,
+            "port": 8443,
             "users": [
               {
-                "id": "095b0dfb-8487-4e69-bfac-4beb814310bf",
+                "id": "a8b8d00a-fb21-4424-ba91-f85994a06470",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1135,7 +1135,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "minor-wn-inspection-gratis.trycloudflare.com",
+          "serverName": "spring-candle-thesaurus-prediction.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1144,9 +1144,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "095b0dfb-8487-4e69-bfac-4beb814310bf-vm",
+          "path": "a8b8d00a-fb21-4424-ba91-f85994a06470-vm",
           "headers": {
-            "Host": "minor-wn-inspection-gratis.trycloudflare.com"
+            "Host": "spring-candle-thesaurus-prediction.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1293,10 +1293,10 @@
         "vnext": [
           {
             "address": "upcloud.com",
-            "port": 2053,
+            "port": 8443,
             "users": [
               {
-                "id": "095b0dfb-8487-4e69-bfac-4beb814310bf",
+                "id": "a8b8d00a-fb21-4424-ba91-f85994a06470",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1312,7 +1312,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "minor-wn-inspection-gratis.trycloudflare.com",
+          "serverName": "spring-candle-thesaurus-prediction.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1321,9 +1321,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "095b0dfb-8487-4e69-bfac-4beb814310bf-vm",
+          "path": "a8b8d00a-fb21-4424-ba91-f85994a06470-vm",
           "headers": {
-            "Host": "minor-wn-inspection-gratis.trycloudflare.com"
+            "Host": "spring-candle-thesaurus-prediction.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1470,10 +1470,10 @@
         "vnext": [
           {
             "address": "datarade.ai",
-            "port": 2053,
+            "port": 8443,
             "users": [
               {
-                "id": "095b0dfb-8487-4e69-bfac-4beb814310bf",
+                "id": "a8b8d00a-fb21-4424-ba91-f85994a06470",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1489,7 +1489,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "minor-wn-inspection-gratis.trycloudflare.com",
+          "serverName": "spring-candle-thesaurus-prediction.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1498,9 +1498,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "095b0dfb-8487-4e69-bfac-4beb814310bf-vm",
+          "path": "a8b8d00a-fb21-4424-ba91-f85994a06470-vm",
           "headers": {
-            "Host": "minor-wn-inspection-gratis.trycloudflare.com"
+            "Host": "spring-candle-thesaurus-prediction.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1647,10 +1647,10 @@
         "vnext": [
           {
             "address": "consumer-api.prod.ps.welt.de",
-            "port": 2053,
+            "port": 8443,
             "users": [
               {
-                "id": "095b0dfb-8487-4e69-bfac-4beb814310bf",
+                "id": "a8b8d00a-fb21-4424-ba91-f85994a06470",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1666,7 +1666,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "minor-wn-inspection-gratis.trycloudflare.com",
+          "serverName": "spring-candle-thesaurus-prediction.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1675,9 +1675,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "095b0dfb-8487-4e69-bfac-4beb814310bf-vm",
+          "path": "a8b8d00a-fb21-4424-ba91-f85994a06470-vm",
           "headers": {
-            "Host": "minor-wn-inspection-gratis.trycloudflare.com"
+            "Host": "spring-candle-thesaurus-prediction.trycloudflare.com"
           }
         },
         "sockopt": {
