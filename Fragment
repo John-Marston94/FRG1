@@ -101,7 +101,7 @@
     
     {
       "tag": "fragment",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {
         "fragment": {
           "packets": "tlshello",
@@ -120,7 +120,7 @@
 
     {
       "tag": "direct",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {}
     },
     {
@@ -278,7 +278,7 @@
     
     {
       "tag": "fragment",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {
         "fragment": {
           "packets": "tlshello",
@@ -297,7 +297,7 @@
 
     {
       "tag": "direct",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {}
     },
     {
@@ -455,7 +455,7 @@
     
     {
       "tag": "fragment",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {
         "fragment": {
           "packets": "tlshello",
@@ -474,7 +474,7 @@
 
     {
       "tag": "direct",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {}
     },
     {
@@ -632,7 +632,7 @@
     
     {
       "tag": "fragment",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {
         "fragment": {
           "packets": "tlshello",
@@ -651,7 +651,7 @@
 
     {
       "tag": "direct",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {}
     },
     {
@@ -809,7 +809,7 @@
     
     {
       "tag": "fragment",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {
         "fragment": {
           "packets": "tlshello",
@@ -828,7 +828,7 @@
 
     {
       "tag": "direct",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {}
     },
     {
@@ -986,7 +986,7 @@
     
     {
       "tag": "fragment",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {
         "fragment": {
           "packets": "tlshello",
@@ -1005,7 +1005,7 @@
 
     {
       "tag": "direct",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {}
     },
     {
@@ -1163,7 +1163,7 @@
     
     {
       "tag": "fragment",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {
         "fragment": {
           "packets": "tlshello",
@@ -1182,7 +1182,7 @@
 
     {
       "tag": "direct",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {}
     },
     {
@@ -1340,7 +1340,7 @@
     
     {
       "tag": "fragment",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {
         "fragment": {
           "packets": "tlshello",
@@ -1359,7 +1359,7 @@
 
     {
       "tag": "direct",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {}
     },
     {
@@ -1517,7 +1517,7 @@
     
     {
       "tag": "fragment",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {
         "fragment": {
           "packets": "tlshello",
@@ -1536,7 +1536,7 @@
 
     {
       "tag": "direct",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {}
     },
     {
@@ -1694,7 +1694,7 @@
     
     {
       "tag": "fragment",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {
         "fragment": {
           "packets": "tlshello",
@@ -1713,7 +1713,7 @@
 
     {
       "tag": "direct",
-      "protocol": "chrome",
+      "protocol": "randome",
       "settings": {}
     },
     {
