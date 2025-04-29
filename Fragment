@@ -58,7 +58,7 @@
             "port": 2096,
             "users": [
               {
-                "id": "4a26ff9a-942e-4dfe-beaa-b98e503146f1",
+                "id": "4d48b4fa-7884-4208-91ea-cde41bc69683",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -74,7 +74,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "raymond-map-opposite-honolulu.trycloudflare.com",
+          "serverName": "clinton-discrete-punk-vegetation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -83,9 +83,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "4a26ff9a-942e-4dfe-beaa-b98e503146f1-vm",
+          "path": "4d48b4fa-7884-4208-91ea-cde41bc69683-vm",
           "headers": {
-            "Host": "raymond-map-opposite-honolulu.trycloudflare.com"
+            "Host": "clinton-discrete-punk-vegetation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -208,7 +208,7 @@
             "port": 2096,
             "users": [
               {
-                "id": "4a26ff9a-942e-4dfe-beaa-b98e503146f1",
+                "id": "4d48b4fa-7884-4208-91ea-cde41bc69683",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -224,7 +224,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "raymond-map-opposite-honolulu.trycloudflare.com",
+          "serverName": "clinton-discrete-punk-vegetation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -233,9 +233,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "4a26ff9a-942e-4dfe-beaa-b98e503146f1-vm",
+          "path": "4d48b4fa-7884-4208-91ea-cde41bc69683-vm",
           "headers": {
-            "Host": "raymond-map-opposite-honolulu.trycloudflare.com"
+            "Host": "clinton-discrete-punk-vegetation.trycloudflare.com"
           }
         },
         "sockopt": {
