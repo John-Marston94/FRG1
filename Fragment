@@ -58,7 +58,7 @@
             "port": 2096,
             "users": [
               {
-                "id": "4d48b4fa-7884-4208-91ea-cde41bc69683",
+                "id": "1218d977-ebac-4ec3-9907-996ba1d26298",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -74,7 +74,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "clinton-discrete-punk-vegetation.trycloudflare.com",
+          "serverName": "screw-habits-diamond-amp.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -83,9 +83,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "4d48b4fa-7884-4208-91ea-cde41bc69683-vm",
+          "path": "1218d977-ebac-4ec3-9907-996ba1d26298-vm",
           "headers": {
-            "Host": "clinton-discrete-punk-vegetation.trycloudflare.com"
+            "Host": "screw-habits-diamond-amp.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -208,7 +208,7 @@
             "port": 2096,
             "users": [
               {
-                "id": "4d48b4fa-7884-4208-91ea-cde41bc69683",
+                "id": "1218d977-ebac-4ec3-9907-996ba1d26298",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -224,7 +224,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "clinton-discrete-punk-vegetation.trycloudflare.com",
+          "serverName": "screw-habits-diamond-amp.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -233,9 +233,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "4d48b4fa-7884-4208-91ea-cde41bc69683-vm",
+          "path": "1218d977-ebac-4ec3-9907-996ba1d26298-vm",
           "headers": {
-            "Host": "clinton-discrete-punk-vegetation.trycloudflare.com"
+            "Host": "screw-habits-diamond-amp.trycloudflare.com"
           }
         },
         "sockopt": {
