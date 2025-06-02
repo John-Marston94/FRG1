@@ -55,10 +55,10 @@
         "vnext": [
           {
             "address": "zula.ir",
-            "port": 2096,
+            "port": 2053,
             "users": [
               {
-                "id": "1218d977-ebac-4ec3-9907-996ba1d26298",
+                "id": "b6e794d9-10ed-4090-8057-4234cd756f69",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -74,7 +74,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "screw-habits-diamond-amp.trycloudflare.com",
+          "serverName": "ecommerce-uniform-madrid-iv.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -83,9 +83,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "1218d977-ebac-4ec3-9907-996ba1d26298-vm",
+          "path": "b6e794d9-10ed-4090-8057-4234cd756f69-vm",
           "headers": {
-            "Host": "screw-habits-diamond-amp.trycloudflare.com"
+            "Host": "ecommerce-uniform-madrid-iv.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -205,10 +205,10 @@
         "vnext": [
           {
             "address": "zula.ir",
-            "port": 2096,
+            "port": 2053,
             "users": [
               {
-                "id": "1218d977-ebac-4ec3-9907-996ba1d26298",
+                "id": "b6e794d9-10ed-4090-8057-4234cd756f69",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -224,7 +224,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "screw-habits-diamond-amp.trycloudflare.com",
+          "serverName": "ecommerce-uniform-madrid-iv.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -233,9 +233,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "1218d977-ebac-4ec3-9907-996ba1d26298-vm",
+          "path": "b6e794d9-10ed-4090-8057-4234cd756f69-vm",
           "headers": {
-            "Host": "screw-habits-diamond-amp.trycloudflare.com"
+            "Host": "ecommerce-uniform-madrid-iv.trycloudflare.com"
           }
         },
         "sockopt": {
