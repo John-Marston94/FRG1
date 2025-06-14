@@ -54,11 +54,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "zula.ir",
-            "port": 2053,
+            "address": "www.speedtest.net",
+            "port": 443,
             "users": [
               {
-                "id": "b6e794d9-10ed-4090-8057-4234cd756f69",
+                "id": "d006b5ef-3193-4153-a4be-f6f66f5643bb",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -74,7 +74,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "ecommerce-uniform-madrid-iv.trycloudflare.com",
+          "serverName": "filed-records-settlement-opt.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -83,9 +83,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "b6e794d9-10ed-4090-8057-4234cd756f69-vm",
+          "path": "d006b5ef-3193-4153-a4be-f6f66f5643bb-vm",
           "headers": {
-            "Host": "ecommerce-uniform-madrid-iv.trycloudflare.com"
+            "Host": "filed-records-settlement-opt.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -204,11 +204,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "zula.ir",
-            "port": 2053,
+            "address": "www.speedtest.net",
+            "port": 443,
             "users": [
               {
-                "id": "b6e794d9-10ed-4090-8057-4234cd756f69",
+                "id": "d006b5ef-3193-4153-a4be-f6f66f5643bb",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -224,7 +224,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "ecommerce-uniform-madrid-iv.trycloudflare.com",
+          "serverName": "filed-records-settlement-opt.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -233,9 +233,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "b6e794d9-10ed-4090-8057-4234cd756f69-vm",
+          "path": "d006b5ef-3193-4153-a4be-f6f66f5643bb-vm",
           "headers": {
-            "Host": "ecommerce-uniform-madrid-iv.trycloudflare.com"
+            "Host": "filed-records-settlement-opt.trycloudflare.com"
           }
         },
         "sockopt": {
