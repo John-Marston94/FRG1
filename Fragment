@@ -74,7 +74,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "filed-records-settlement-opt.trycloudflare.com",
+          "serverName": "visual-edited-chain-howto.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -85,7 +85,7 @@
         "wsSettings": {
           "path": "d006b5ef-3193-4153-a4be-f6f66f5643bb-vm",
           "headers": {
-            "Host": "filed-records-settlement-opt.trycloudflare.com"
+            "Host": "visual-edited-chain-howto.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -224,7 +224,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "filed-records-settlement-opt.trycloudflare.com",
+          "serverName": "visual-edited-chain-howto.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -235,7 +235,7 @@
         "wsSettings": {
           "path": "d006b5ef-3193-4153-a4be-f6f66f5643bb-vm",
           "headers": {
-            "Host": "filed-records-settlement-opt.trycloudflare.com"
+            "Host": "visual-edited-chain-howto.trycloudflare.com"
           }
         },
         "sockopt": {
