@@ -1,5 +1,4 @@
 [
-
 {
   "remarks": "Zitel 1",
   "log": {
@@ -74,7 +73,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -85,7 +84,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -224,7 +223,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -235,7 +234,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -374,7 +373,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -385,7 +384,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -524,7 +523,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -535,7 +534,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -674,7 +673,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -685,7 +684,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -824,7 +823,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -835,7 +834,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -974,7 +973,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -985,7 +984,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1124,7 +1123,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1135,7 +1134,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1274,7 +1273,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1285,7 +1284,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1424,7 +1423,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1435,7 +1434,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1574,7 +1573,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1585,7 +1584,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1724,7 +1723,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "develop-embedded-quantity-epa.trycloudflare.com",
+          "serverName": "rage-pipeline-destroy-estimation.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1735,7 +1734,7 @@
         "wsSettings": {
           "path": "a93018a3-37ee-45b7-9837-3cc7ca4fba4f-vm",
           "headers": {
-            "Host": "develop-embedded-quantity-epa.trycloudflare.com"
+            "Host": "rage-pipeline-destroy-estimation.trycloudflare.com"
           }
         },
         "sockopt": {
