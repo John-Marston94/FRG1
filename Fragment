@@ -73,7 +73,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -84,7 +84,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -223,7 +223,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -234,7 +234,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -373,7 +373,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -384,7 +384,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -523,7 +523,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -534,7 +534,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -673,7 +673,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -684,7 +684,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -823,7 +823,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -834,7 +834,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -973,7 +973,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -984,7 +984,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1123,7 +1123,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1134,7 +1134,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1273,7 +1273,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1284,7 +1284,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1423,7 +1423,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1434,7 +1434,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1573,7 +1573,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1584,7 +1584,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1723,7 +1723,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1734,7 +1734,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1873,7 +1873,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1884,7 +1884,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -2023,7 +2023,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -2034,7 +2034,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -2173,7 +2173,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "carpet-mats-palace-arrives.trycloudflare.com",
+          "serverName": "anyway-titans-preliminary-units.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -2184,7 +2184,7 @@
         "wsSettings": {
           "path": "4ae9ba2e-ab5c-4bbb-a774-ba9cd2b92479-vm",
           "headers": {
-            "Host": "carpet-mats-palace-arrives.trycloudflare.com"
+            "Host": "anyway-titans-preliminary-units.trycloudflare.com"
           }
         },
         "sockopt": {
