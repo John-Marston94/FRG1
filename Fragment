@@ -57,7 +57,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -73,7 +73,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,9 +82,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -207,7 +207,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -223,7 +223,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -232,9 +232,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -357,7 +357,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -373,7 +373,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -382,9 +382,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -507,7 +507,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -523,7 +523,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -532,9 +532,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -657,7 +657,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -673,7 +673,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -682,9 +682,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -807,7 +807,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -823,7 +823,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -832,9 +832,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -957,7 +957,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -973,7 +973,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -982,9 +982,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1107,7 +1107,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1123,7 +1123,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1132,9 +1132,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1257,7 +1257,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1273,7 +1273,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1282,9 +1282,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1407,7 +1407,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1423,7 +1423,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1432,9 +1432,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1557,7 +1557,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1573,7 +1573,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1582,9 +1582,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1707,7 +1707,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1723,7 +1723,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1732,9 +1732,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1857,7 +1857,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1873,7 +1873,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1882,9 +1882,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -2007,7 +2007,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -2023,7 +2023,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -2032,9 +2032,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -2157,7 +2157,7 @@
             "port": 2083,
             "users": [
               {
-                "id": "cf9f6763-b1f7-4f95-9f65-17ef80b33ddf",
+                "id": "54655ac3-fe83-43a9-97d0-3c28d04a8208",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -2173,7 +2173,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "magazines-publication-earthquake-informational.trycloudflare.com",
+          "serverName": "specialists-ideal-beverage-icon.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -2182,9 +2182,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/cf9f6763-b1f7-4f95-9f65-17ef80b33ddf-vm?ed=2048",
+          "path": "/54655ac3-fe83-43a9-97d0-3c28d04a8208-vm?ed=2048",
           "headers": {
-            "Host": "magazines-publication-earthquake-informational.trycloudflare.com"
+            "Host": "specialists-ideal-beverage-icon.trycloudflare.com"
           }
         },
         "sockopt": {
