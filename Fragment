@@ -851,7 +851,7 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
+          "packets": "tlshello",
           "length": "10-20",
           "interval": "10-20"
         }
@@ -953,7 +953,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.parspack.com",
+            "address": "45.85.118.7",
             "port": 443,
             "users": [
               {
@@ -1001,7 +1001,7 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
+          "packets": "tlshello",
           "length": "10-20",
           "interval": "10-20"
         }
@@ -1103,7 +1103,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.zula.ru",
+            "address": "104.24.0.2",
             "port": 443,
             "users": [
               {
@@ -1151,7 +1151,7 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
+          "packets": "tlshello",
           "length": "10-20",
           "interval": "10-20"
         }
@@ -1253,7 +1253,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.djdog.io",
+            "address": "www.zula.ir",
             "port": 443,
             "users": [
               {
@@ -1301,7 +1301,7 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
+          "packets": "tlshello",
           "length": "10-20",
           "interval": "10-20"
         }
@@ -1451,8 +1451,8 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
-          "length": "80-250",
+          "packets": "tlshello",
+          "length": "10-20",
           "interval": "10-20"
         }
       },
@@ -1601,8 +1601,8 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
-          "length": "100-200",
+          "packets": "tlshello",
+          "length": "40-80",
           "interval": "10-20"
         }
       },
@@ -1703,7 +1703,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.parspack.com",
+            "address": "45.142.120.61",
             "port": 443,
             "users": [
               {
@@ -1751,8 +1751,8 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
-          "length": "100-200",
+          "packets": "tlshello",
+          "length": "40-80",
           "interval": "10-20"
         }
       },
@@ -1901,8 +1901,8 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
-          "length": "100-200",
+          "packets": "tlshello",
+          "length": "40-80",
           "interval": "10-20"
         }
       },
@@ -2003,7 +2003,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.djdog.io",
+            "address": "45.85.118.6",
             "port": 443,
             "users": [
               {
@@ -2051,8 +2051,8 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
-          "length": "100-200",
+          "packets": "tlshello",
+          "length": "40-80",
           "interval": "10-20"
         }
       },
@@ -2201,8 +2201,8 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
-          "length": "80-250",
+          "packets": "tlshello",
+          "length": "40-80",
           "interval": "10-20"
         }
       },
