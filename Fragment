@@ -1601,9 +1601,9 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "tlshello",
-          "length": "40-80",
-          "interval": "10-20"
+          "packets": "1-2",
+          "length": "5-10",
+          "interval": "5-10"
         }
       },
       "streamSettings": {
@@ -1751,9 +1751,9 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "tlshello",
-          "length": "40-80",
-          "interval": "10-20"
+          "packets": "1-2",
+          "length": "5-10",
+          "interval": "5-10"
         }
       },
       "streamSettings": {
@@ -1901,9 +1901,9 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "tlshello",
-          "length": "40-80",
-          "interval": "10-20"
+          "packets": "1-2",
+          "length": "5-10",
+          "interval": "5-10"
         }
       },
       "streamSettings": {
@@ -2051,9 +2051,9 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "tlshello",
-          "length": "40-80",
-          "interval": "10-20"
+          "packets": "1-2",
+          "length": "5-10",
+          "interval": "5-10"
         }
       },
       "streamSettings": {
@@ -2201,9 +2201,9 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "tlshello",
-          "length": "40-80",
-          "interval": "10-20"
+          "packets": "1-2",
+          "length": "5-10",
+          "interval": "5-10"
         }
       },
       "streamSettings": {
