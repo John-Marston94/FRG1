@@ -1001,7 +1001,7 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
+          "packets": "1-3",
           "length": "10-20",
           "interval": "10-20"
         }
