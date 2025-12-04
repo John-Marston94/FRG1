@@ -73,7 +73,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "declaration-receipt-cook-knives.trycloudflare.com",
+          "serverName": "accommodations-cruises-recently-answering.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -84,7 +84,7 @@
         "wsSettings": {
           "path": "/89aae27a-a538-4272-a7be-9a4d7f4d3766-vm",
           "headers": {
-            "Host": "declaration-receipt-cook-knives.trycloudflare.com"
+            "Host": "accommodations-cruises-recently-answering.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -223,7 +223,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "declaration-receipt-cook-knives.trycloudflare.com",
+          "serverName": "accommodations-cruises-recently-answering.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -234,7 +234,7 @@
         "wsSettings": {
           "path": "/89aae27a-a538-4272-a7be-9a4d7f4d3766-vm",
           "headers": {
-            "Host": "declaration-receipt-cook-knives.trycloudflare.com"
+            "Host": "accommodations-cruises-recently-answering.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -373,7 +373,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "declaration-receipt-cook-knives.trycloudflare.com",
+          "serverName": "accommodations-cruises-recently-answering.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -384,7 +384,7 @@
         "wsSettings": {
           "path": "/89aae27a-a538-4272-a7be-9a4d7f4d3766-vm",
           "headers": {
-            "Host": "declaration-receipt-cook-knives.trycloudflare.com"
+            "Host": "accommodations-cruises-recently-answering.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -523,7 +523,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "declaration-receipt-cook-knives.trycloudflare.com",
+          "serverName": "accommodations-cruises-recently-answering.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -534,7 +534,7 @@
         "wsSettings": {
           "path": "/89aae27a-a538-4272-a7be-9a4d7f4d3766-vm",
           "headers": {
-            "Host": "declaration-receipt-cook-knives.trycloudflare.com"
+            "Host": "accommodations-cruises-recently-answering.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -673,7 +673,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "declaration-receipt-cook-knives.trycloudflare.com",
+          "serverName": "accommodations-cruises-recently-answering.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -684,7 +684,7 @@
         "wsSettings": {
           "path": "/89aae27a-a538-4272-a7be-9a4d7f4d3766-vm",
           "headers": {
-            "Host": "declaration-receipt-cook-knives.trycloudflare.com"
+            "Host": "accommodations-cruises-recently-answering.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -823,7 +823,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "declaration-receipt-cook-knives.trycloudflare.com",
+          "serverName": "accommodations-cruises-recently-answering.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -834,7 +834,7 @@
         "wsSettings": {
           "path": "/89aae27a-a538-4272-a7be-9a4d7f4d3766-vm",
           "headers": {
-            "Host": "declaration-receipt-cook-knives.trycloudflare.com"
+            "Host": "accommodations-cruises-recently-answering.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -953,7 +953,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.speedtest.net",
+            "address": "45.85.118.5",
             "port": 443,
             "users": [
               {
@@ -973,7 +973,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "declaration-receipt-cook-knives.trycloudflare.com",
+          "serverName": "accommodations-cruises-recently-answering.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -984,7 +984,7 @@
         "wsSettings": {
           "path": "/89aae27a-a538-4272-a7be-9a4d7f4d3766-vm",
           "headers": {
-            "Host": "declaration-receipt-cook-knives.trycloudflare.com"
+            "Host": "accommodations-cruises-recently-answering.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1103,7 +1103,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.speedtest.net",
+            "address": "45.85.118.8",
             "port": 443,
             "users": [
               {
@@ -1123,7 +1123,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "declaration-receipt-cook-knives.trycloudflare.com",
+          "serverName": "accommodations-cruises-recently-answering.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1134,7 +1134,7 @@
         "wsSettings": {
           "path": "/89aae27a-a538-4272-a7be-9a4d7f4d3766-vm",
           "headers": {
-            "Host": "declaration-receipt-cook-knives.trycloudflare.com"
+            "Host": "accommodations-cruises-recently-answering.trycloudflare.com"
           }
         },
         "sockopt": {
