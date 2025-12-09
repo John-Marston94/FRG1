@@ -1050,7 +1050,7 @@
   }
 },
 {
-  "remarks": "MKB 2",
+  "remarks": "Zitel",
   "log": {
     "access": "",
     "error": "",
@@ -1103,7 +1103,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "45.85.118.8",
+            "address": "141.193.213.1",
             "port": 443,
             "users": [
               {
@@ -1151,8 +1151,8 @@
       "settings": {
         "domainStrategy": "AsIs",
         "fragment": {
-          "packets": "1-1",
-          "length": "100-200",
+          "packets": "1-2",
+          "length": "80-100",
           "interval": "10-20"
         }
       },
@@ -1179,6 +1179,26 @@
     }
   ],
   "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api",
+        "enabled": true
+      },
+      {
+        "id": "5627785659655799759",
+        "type": "field",
+        "port": "0-65535",
+        "outboundTag": "proxy",
+        "enabled": true
+      }
+    ]
+  }
+}  "routing": {
     "domainStrategy": "AsIs",
     "rules": [
       {
