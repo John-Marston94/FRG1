@@ -1350,7 +1350,7 @@
   }
 },
 {
-  "remarks": "MKB 3",
+  "remarks": "Zitel 2",
   "log": {
     "access": "",
     "error": "",
@@ -1403,7 +1403,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.zula.ir",
+            "address": "141.193.213.1",
             "port": 443,
             "users": [
               {
@@ -1453,7 +1453,7 @@
         "fragment": {
           "packets": "1-2",
           "length": "200-240",
-          "interval": "4-8"
+          "interval": "3-6"
         }
       },
       "streamSettings": {
@@ -1500,7 +1500,7 @@
   }
 },
 {
-  "remarks": "MKB 4",
+  "remarks": "Zitel 3",
   "log": {
     "access": "",
     "error": "",
@@ -1553,7 +1553,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.zula.ir",
+            "address": "141.193.213.1",
             "port": 443,
             "users": [
               {
