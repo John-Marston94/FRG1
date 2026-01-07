@@ -103,7 +103,8 @@
         "fragment": {
           "packets": "1-2",
           "length": "5-10",
-          "interval": "5-10"
+          "interval": "5-10",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -253,7 +254,8 @@
         "fragment": {
           "packets": "1-2",
           "length": "5-10",
-          "interval": "5-10"
+          "interval": "5-10",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -403,7 +405,8 @@
         "fragment": {
           "packets": "1-2",
           "length": "5-10",
-          "interval": "5-10"
+          "interval": "5-10",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -553,7 +556,8 @@
         "fragment": {
           "packets": "1-2",
           "length": "5-10",
-          "interval": "5-10"
+          "interval": "5-10",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -703,7 +707,8 @@
         "fragment": {
           "packets": "1-2",
           "length": "5-10",
-          "interval": "5-10"
+          "interval": "5-10",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -853,7 +858,8 @@
         "fragment": {
           "packets": "1-1",
           "length": "50-100",
-          "interval": "10-20"
+          "interval": "10-20",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -1003,7 +1009,8 @@
         "fragment": {
           "packets": "tlshello",
           "length": "100-200",
-          "interval": "10-20"
+          "interval": "10-20",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -1153,7 +1160,8 @@
         "fragment": {
           "packets": "1-1",
           "length": "100-200",
-          "interval": "10-20"
+          "interval": "10-20",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -1200,7 +1208,7 @@
   }
 },
 {
-  "remarks": "Zitel",
+  "remarks": "Zitel 1",
   "log": {
     "access": "",
     "error": "",
@@ -1303,7 +1311,8 @@
         "fragment": {
           "packets": "1-2",
           "length": "80-100",
-          "interval": "10-20"
+          "interval": "10-20",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -1453,7 +1462,8 @@
         "fragment": {
           "packets": "1-2",
           "length": "200-240",
-          "interval": "3-6"
+          "interval": "3-6",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -1603,7 +1613,8 @@
         "fragment": {
           "packets": "1-2",
           "length": "200-240",
-          "interval": "2-5"
+          "interval": "2-5",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -1753,7 +1764,8 @@
         "fragment": {
           "packets": "1-2",
           "length": "5-10",
-          "interval": "2-5"
+          "interval": "2-5",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -1903,7 +1915,8 @@
         "fragment": {
           "packets": "1-3",
           "length": "5-10",
-          "interval": "5-10"
+          "interval": "5-10",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
@@ -2053,7 +2066,8 @@
         "fragment": {
           "packets": "1-3",
           "length": "5-10",
-          "interval": "2-5"
+          "interval": "2-5",
+          "maxSplit": "32-512"
         }
       },
       "streamSettings": {
