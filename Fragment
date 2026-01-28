@@ -54,10 +54,10 @@
         "vnext": [
           {
             "address": "www.speedtest.net",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -73,7 +73,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,9 +82,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -205,10 +205,10 @@
         "vnext": [
           {
             "address": "45.85.118.6",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -224,7 +224,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -233,9 +233,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -356,10 +356,10 @@
         "vnext": [
           {
             "address": "141.193.213.1",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -375,7 +375,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -384,9 +384,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -507,10 +507,10 @@
         "vnext": [
           {
             "address": "185.238.228.43",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -526,7 +526,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -535,9 +535,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -658,10 +658,10 @@
         "vnext": [
           {
             "address": "45.142.120.61",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -677,7 +677,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -686,9 +686,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -809,10 +809,10 @@
         "vnext": [
           {
             "address": "45.142.120.61",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -828,7 +828,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -837,9 +837,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -960,10 +960,10 @@
         "vnext": [
           {
             "address": "45.85.118.5",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -979,7 +979,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -988,9 +988,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1111,10 +1111,10 @@
         "vnext": [
           {
             "address": "45.85.118.8",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1130,7 +1130,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1139,9 +1139,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1262,10 +1262,10 @@
         "vnext": [
           {
             "address": "141.193.213.1",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1281,7 +1281,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1290,9 +1290,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1413,10 +1413,10 @@
         "vnext": [
           {
             "address": "141.193.213.1",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1432,7 +1432,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1441,9 +1441,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1564,10 +1564,10 @@
         "vnext": [
           {
             "address": "141.193.213.1",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1583,7 +1583,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1592,9 +1592,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1715,10 +1715,10 @@
         "vnext": [
           {
             "address": "141.193.213.1",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1734,7 +1734,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1743,9 +1743,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -1866,10 +1866,10 @@
         "vnext": [
           {
             "address": "141.193.213.1",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -1885,7 +1885,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -1894,9 +1894,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
@@ -2017,10 +2017,10 @@
         "vnext": [
           {
             "address": "141.193.213.1",
-            "port": 443,
+            "port": 2087,
             "users": [
               {
-                "id": "327c16d7-2b87-43a2-bcad-d52190cc39a2",
+                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -2036,7 +2036,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "rivers-katie-interim-newport.trycloudflare.com",
+          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -2045,9 +2045,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/327c16d7-2b87-43a2-bcad-d52190cc39a2-vm",
+          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
           "headers": {
-            "Host": "rivers-katie-interim-newport.trycloudflare.com"
+            "Host": "kitchen-cindy-accepted-instructional.trycloudflare.com"
           }
         },
         "sockopt": {
