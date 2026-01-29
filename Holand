@@ -1,5 +1,5 @@
 {
-  "remarks": "Holand-Argo",
+  "remarks": "Holand+Argo",
   "log": {
     "loglevel": "warning"
   },
@@ -32,10 +32,10 @@
         "vnext": [
           {
             "address": "news24.com",
-            "port": 2087,
+            "port": 2096,
             "users": [
               {
-                "id": "a36edcd3-9882-42af-8a46-d5ff788dcdd8",
+                "id": "bb647e48-3ffd-4614-94af-aeba03a7072a",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto"
@@ -49,11 +49,16 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "kitchen-cindy-accepted-instructional.trycloudflare.com"
+          "serverName": "reverse-reason-desired-findings.trycloudflare.com",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
         },
         "wsSettings": {
-          "path": "a36edcd3-9882-42af-8a46-d5ff788dcdd8-vm",
-          "host": "kitchen-cindy-accepted-instructional.trycloudflare.com",
+          "path": "bb647e48-3ffd-4614-94af-aeba03a7072a-vm",
+          "host": "reverse-reason-desired-findings.trycloudflare.com",
           "headers": {}
         },
         "sockopt": {
@@ -208,5 +213,3 @@
     ]
   }
 }
-
-
