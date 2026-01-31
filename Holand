@@ -27,18 +27,18 @@
   "outbounds": [
     {
       "tag": "proxy",
-      "protocol": "vless",
+      "protocol": "vmess",
       "settings": {
         "vnext": [
           {
-            "address": "172.67.67.52",
-            "port": 443,
+            "address": "news24.com",
+            "port": 2096,
             "users": [
               {
-                "id": "dc59bf1f-17d5-46e0-a7a2-0a746b731f23",
+                "id": "bb647e48-3ffd-4614-94af-aeba03a7072a",
+                "alterId": 0,
                 "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none"
+                "security": "auto"
               }
             ]
           }
@@ -49,7 +49,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "patient-term-bc72.nr94.workers.dev",
+          "serverName": "reverse-reason-desired-findings.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -57,8 +57,8 @@
           "fingerprint": "chrome"
         },
         "wsSettings": {
-          "path": "/",
-          "host": "patient-term-bc72.nr94.workers.dev",
+          "path": "bb647e48-3ffd-4614-94af-aeba03a7072a-vm",
+          "host": "reverse-reason-desired-findings.trycloudflare.com",
           "headers": {}
         },
         "sockopt": {
