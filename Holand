@@ -1,9 +1,9 @@
 {
-  "remarks": "Holand+Argo",
+  "remarks": "WK+Argo 1",
   "log": {
     "loglevel": "warning"
   },
-  "inbounds": [
+"inbounds": [
     {
       "tag": "socks",
       "port": 10808,
@@ -27,18 +27,18 @@
   "outbounds": [
     {
       "tag": "proxy",
-      "protocol": "vmess",
+      "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "news24.com",
-            "port": 2096,
+            "address": "172.67.67.52",
+            "port": 443,
             "users": [
               {
-                "id": "bb647e48-3ffd-4614-94af-aeba03a7072a",
-                "alterId": 0,
+                "id": "dc59bf1f-17d5-46e0-a7a2-0a746b731f23",
                 "email": "t@t.tt",
-                "security": "auto"
+                "security": "auto",
+                "encryption": "none"
               }
             ]
           }
@@ -49,7 +49,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "reverse-reason-desired-findings.trycloudflare.com",
+          "serverName": "patient-term-bc72.nr94.workers.dev",
           "alpn": [
             "h2",
             "http/1.1"
@@ -57,8 +57,8 @@
           "fingerprint": "chrome"
         },
         "wsSettings": {
-          "path": "bb647e48-3ffd-4614-94af-aeba03a7072a-vm",
-          "host": "reverse-reason-desired-findings.trycloudflare.com",
+          "path": "/",
+          "host": "patient-term-bc72.nr94.workers.dev",
           "headers": {}
         },
         "sockopt": {
@@ -72,26 +72,40 @@
     },
     {
       "tag": "chain-proxy1",
-      "protocol": "socks",
+      "protocol": "vless",
       "settings": {
-        "servers": [
+        "vnext": [
           {
-            "address": "127.0.0.1",
-            "ota": false,
-            "port": 5201,
-            "level": 1,
+            "address": "172.67.67.52",
+            "port": 443,
             "users": [
               {
-                "user": "GH65rEfc",
-                "pass": "guiTfk2z",
-                "level": 1
+                "id": "dc59bf1f-17d5-46e0-a7a2-0a746b731f23",
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
               }
             ]
           }
         ]
       },
       "streamSettings": {
-        "network": "tcp"
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "patient-term-bc72.nr94.workers.dev",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/",
+          "host": "patient-term-bc72.nr94.workers.dev",
+          "headers": {}
+        }
       },
       "mux": {
         "enabled": false,
