@@ -49,7 +49,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "reverse-reason-desired-findings.trycloudflare.com",
+          "serverName": "chest-pamela-debug-sanyo.trycloudflare.com",
           "alpn": [
             "h2",
             "http/1.1"
@@ -58,7 +58,7 @@
         },
         "wsSettings": {
           "path": "bb647e48-3ffd-4614-94af-aeba03a7072a-vm",
-          "host": "reverse-reason-desired-findings.trycloudflare.com",
+          "host": "chest-pamela-debug-sanyo.trycloudflare.com",
           "headers": {}
         },
         "sockopt": {
@@ -227,3 +227,4 @@
     ]
   }
 }
+
